@@ -1,1 +1,1 @@
-# Social-Media-MS
+# Social Media Management System
